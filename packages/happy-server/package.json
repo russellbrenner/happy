@@ -32,7 +32,7 @@
     "dotenv-cli": "^8.0.0",
     "ts-node": "^10.9.2",
     "typescript": "5.9.3",
-    "yaml": "^2.4.2"
+    "yaml": "^2.8.3"
   },
   "dependencies": {
     "@date-fns/tz": "^1.2.0",
@@ -44,12 +44,12 @@
     "@slopus/happy-wire": "^0.1.0",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/semver": "^7.7.0",
-    "axios": "^1.6.8",
+    "axios": "^1.16.0",
     "chalk": "4.1.2",
     "date-fns": "^4.1.0",
     "dotenv": "^16.4.5",
     "elevenlabs": "^1.54.0",
-    "fastify": "^5.2.0",
+    "fastify": "^5.8.5",
     "fastify-type-provider-zod": "^4.0.2",
     "ioredis": "^5.6.1",
     "jsonwebtoken": "^9.0.2",
@@ -66,12 +66,12 @@
     "sharp": "^0.34.3",
     "socket.io": "^4.8.1",
     "socket.io-adapter": "^2.5.5",
-    "tmp": "^0.2.3",
+    "tmp": "^0.2.7",
     "tsx": "^4.19.2",
     "tweetnacl": "^1.0.3",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^3.2.0",
+    "vitest": "^3.2.6",
     "zod": "3.25.76",
     "zod-to-json-schema": "^3.24.3"
   }
